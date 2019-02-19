@@ -1,0 +1,14 @@
+
+package ua.training;
+
+public class App46 {
+
+    public static void main(String[] args) {
+        try {
+            System.err.println("try");
+        } finally {
+            System.err.println("finally");
+        }
+    }
+
+}
